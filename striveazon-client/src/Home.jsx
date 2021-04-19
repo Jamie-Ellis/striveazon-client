@@ -12,5 +12,6 @@ class Home extends React.Component {
         <LatestRelease />
         </>
       )
-
+       }
+    }
 export default Home

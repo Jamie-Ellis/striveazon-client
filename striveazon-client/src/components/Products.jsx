@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Col, Container, Row } from "react-bootstrap";
-import books from "../data/books.json";
+
 
 // functional components are great to work with and they can use the props
 // but if we want to use the state, we need a CLASS BASED component
